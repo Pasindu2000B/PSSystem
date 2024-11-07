@@ -1,0 +1,161 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asus\\Desktop\\Paddy\\PaddyStore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Asus\\Desktop\\Paddy\\PaddyStore\\PaddyStore\\Migrations\\20241107044538_InitialMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PaddyStore\\Migrations\\20241107044538_InitialMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7934345F-BBAC-460A-93BF-25912E7FD4B9}|PaddyStore\\PaddyStore.csproj|c:\\users\\asus\\desktop\\paddy\\paddystore\\paddystore\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7934345F-BBAC-460A-93BF-25912E7FD4B9}|PaddyStore\\PaddyStore.csproj|solutionrelative:paddystore\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Asus\\Desktop\\Paddy\\PaddyStore\\PaddyStore\\Migrations\\20241107044348_InitialMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PaddyStore\\Migrations\\20241107044348_InitialMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7934345F-BBAC-460A-93BF-25912E7FD4B9}|PaddyStore\\PaddyStore.csproj|c:\\users\\asus\\desktop\\paddy\\paddystore\\paddystore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7934345F-BBAC-460A-93BF-25912E7FD4B9}|PaddyStore\\PaddyStore.csproj|solutionrelative:paddystore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7934345F-BBAC-460A-93BF-25912E7FD4B9}|PaddyStore\\PaddyStore.csproj|c:\\users\\asus\\desktop\\paddy\\paddystore\\paddystore\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7934345F-BBAC-460A-93BF-25912E7FD4B9}|PaddyStore\\PaddyStore.csproj|solutionrelative:paddystore\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7934345F-BBAC-460A-93BF-25912E7FD4B9}|PaddyStore\\PaddyStore.csproj|c:\\users\\asus\\desktop\\paddy\\paddystore\\paddystore\\models\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7934345F-BBAC-460A-93BF-25912E7FD4B9}|PaddyStore\\PaddyStore.csproj|solutionrelative:paddystore\\models\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7934345F-BBAC-460A-93BF-25912E7FD4B9}|PaddyStore\\PaddyStore.csproj|c:\\users\\asus\\desktop\\paddy\\paddystore\\paddystore\\models\\baseclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7934345F-BBAC-460A-93BF-25912E7FD4B9}|PaddyStore\\PaddyStore.csproj|solutionrelative:paddystore\\models\\baseclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20241107044538_InitialMigration.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Paddy\\PaddyStore\\PaddyStore\\Migrations\\20241107044538_InitialMigration.cs",
+              "RelativeDocumentMoniker": "PaddyStore\\Migrations\\20241107044538_InitialMigration.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Paddy\\PaddyStore\\PaddyStore\\Migrations\\20241107044538_InitialMigration.cs",
+              "RelativeToolTip": "PaddyStore\\Migrations\\20241107044538_InitialMigration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T04:45:39.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20241107044348_InitialMigration.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Paddy\\PaddyStore\\PaddyStore\\Migrations\\20241107044348_InitialMigration.cs",
+              "RelativeDocumentMoniker": "PaddyStore\\Migrations\\20241107044348_InitialMigration.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Paddy\\PaddyStore\\PaddyStore\\Migrations\\20241107044348_InitialMigration.cs",
+              "RelativeToolTip": "PaddyStore\\Migrations\\20241107044348_InitialMigration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T04:43:48.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Paddy\\PaddyStore\\PaddyStore\\appsettings.json",
+              "RelativeDocumentMoniker": "PaddyStore\\appsettings.json",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Paddy\\PaddyStore\\PaddyStore\\appsettings.json",
+              "RelativeToolTip": "PaddyStore\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-07T04:34:32.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Paddy\\PaddyStore\\PaddyStore\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "PaddyStore\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Paddy\\PaddyStore\\PaddyStore\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "PaddyStore\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T04:12:07.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Paddy\\PaddyStore\\PaddyStore\\Models\\DataContext.cs",
+              "RelativeDocumentMoniker": "PaddyStore\\Models\\DataContext.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Paddy\\PaddyStore\\PaddyStore\\Models\\DataContext.cs",
+              "RelativeToolTip": "PaddyStore\\Models\\DataContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T04:06:31.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BaseClass.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Paddy\\PaddyStore\\PaddyStore\\Models\\BaseClass.cs",
+              "RelativeDocumentMoniker": "PaddyStore\\Models\\BaseClass.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Paddy\\PaddyStore\\PaddyStore\\Models\\BaseClass.cs",
+              "RelativeToolTip": "PaddyStore\\Models\\BaseClass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T04:02:58.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Paddy\\PaddyStore\\PaddyStore\\Models\\User.cs",
+              "RelativeDocumentMoniker": "PaddyStore\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Paddy\\PaddyStore\\PaddyStore\\Models\\User.cs",
+              "RelativeToolTip": "PaddyStore\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T04:02:34.666Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 60,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
